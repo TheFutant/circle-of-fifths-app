@@ -1,0 +1,13 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: #111;
+    color: white;
+    font-family: sans-serif;
+}
+canvas {
+    background-color: #222;
+    border-radius: 50%;
+}
